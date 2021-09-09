@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
-
 #要numpy
 import numpy as np
 
@@ -25,10 +19,3 @@ FILENAME = 'C:/Users/FRNLC310Y-11/tomita/demo.nir'
 result = hyprawread(FILENAME,400,320,81,False) #パーセント表記ならTrueに。
 
 print(result)
-
-
-# In[ ]:
-
-
-
-
